@@ -1,0 +1,29 @@
+{
+    "user1": {
+      "id":1,
+      "firstname":"Siddharth",
+      "lastname":"Desai",
+      "email":"Sid@gmail.com"
+    },
+  
+    "user2":  {
+      "id":2,
+      "firstname":"Leo",
+      "lastname":"Messi",
+      "email":"Goat@gmail.com"
+    },
+  
+    "user3":  {
+      "id":3,
+      "firstname":"Alex",
+      "lastname":"Lacazette",
+      "email":"Laca@gmail.com"
+    },
+  
+    "user4": {
+      "id":4,
+      "firstname":"Auba",
+      "lastname":"Aubameyang",
+      "email":"Auba@gmail.com"
+    }
+  }
