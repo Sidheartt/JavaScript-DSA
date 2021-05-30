@@ -11,8 +11,10 @@ app.get('/api/arsenal', (req,res) => {
 })
 
 app.get('/api/arsenal/:year/:month', (req,res) => {
-    res.send(req.params)
+    res.send(req.query);
 })
+
+// http://localhost:8000/api/arsenal/2021/1?sortBy=name
 
 const port = process.env.PORT || 8000;
 app.listen(8000, () => console.log(`Listening on port ${port}.....`));
