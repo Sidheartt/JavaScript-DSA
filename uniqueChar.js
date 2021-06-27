@@ -6,7 +6,7 @@ str.split('').filter(
      arr.slice(index + 1).indexOf(item) === -1 
      );
 
-    console.log(getUniqueChars('aaaabbbbbbcccc'));
-    console.log(getUniqueChars('aaaa94hhhhhhhhhhhfffgggggggrrrreettteewwqwwwwwwhhhh'));
+    console.log(getUniqueChars('aaaabbbbbbcccc'))
+    console.log(getUniqueChars('aaaa94hhhhhhhhhhhfffgggggggrrrreettteewwqwwwwwwhhhh'))
 
   
